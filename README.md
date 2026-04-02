@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Structural_Variant-Detection-a78bfa"/>
   <img src="https://img.shields.io/badge/PacBio%20HiFi-Long--read-34d399"/>
   <img src="https://img.shields.io/badge/Illumina-Short--read-60a5fa"/>
+  <img src="https://img.shields.io/badge/GRCh38_%7C_T2T_%7C_HPRC-3_references-a78bfa"/>
+  <img src="https://img.shields.io/badge/SVDB-benchmarking-fb923c"/>
 </p>
 
 ---
