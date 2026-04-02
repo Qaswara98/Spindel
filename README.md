@@ -29,11 +29,13 @@ This project benchmarks SV detection across three reference strategies:
 | Complete | T2T-CHM13 v2.0 | Telomere-to-telomere |
 | Pangenome graph | HPRC v1.1 (Minigraph-Cactus) | Graph-based |
 
-Evaluated on both **short-read** (Illumina WGS) and **long-read** (PacBio HiFi) data from a national pilot, UDN clinical cohort.
+Evaluated on both **short-read** (Illumina WGS) and **long-read** (PacBio HiFi) data from clinical cohort.
 
 ---
 
+## Progress
 
+> **Status: actively in development** — results and scripts are updated as analysis completes.
 
 
 
