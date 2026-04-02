@@ -1,0 +1,108 @@
+<svg width="100%" viewBox="0 0 680 510" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <!-- Silk thread -->
+  <line x1="340" y1="362" x2="340" y2="458" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="3 4"/>
+
+  <!-- L1 top-right · blue -->
+  <line x1="372" y1="265" x2="448" y2="204" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="448" y1="204" x2="518" y2="183" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- L2 upper-mid right · green · SV bubble -->
+  <line x1="390" y1="287" x2="468" y2="249" stroke="#34d399" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M468 249 Q500 224 546 238" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round"/>
+  <path d="M468 249 Q500 270 546 238" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 3"/>
+
+  <!-- L3 lower-mid right · violet -->
+  <line x1="390" y1="333" x2="468" y2="372" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="468" y1="372" x2="546" y2="389" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- L4 bottom-right · orange -->
+  <line x1="372" y1="355" x2="446" y2="406" stroke="#fb923c" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="446" y1="406" x2="517" y2="436" stroke="#fb923c" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- L5 top-left · blue -->
+  <line x1="308" y1="265" x2="232" y2="204" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="232" y1="204" x2="162" y2="183" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- L6 upper-mid left · green · SV bubble -->
+  <line x1="290" y1="287" x2="212" y2="249" stroke="#34d399" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M212 249 Q180 224 134 238" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round"/>
+  <path d="M212 249 Q180 270 134 238" fill="none" stroke="#34d399" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 3"/>
+
+  <!-- L7 lower-mid left · violet -->
+  <line x1="290" y1="333" x2="212" y2="372" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="212" y1="372" x2="134" y2="389" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- L8 bottom-left · orange -->
+  <line x1="308" y1="355" x2="234" y2="406" stroke="#fb923c" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="234" y1="406" x2="163" y2="436" stroke="#fb923c" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Body -->
+  <ellipse cx="340" cy="310" rx="55" ry="50" fill="#1e1b4b" stroke="#6366f1" stroke-width="2"/>
+
+  <!-- Internal graph markings -->
+  <line x1="312" y1="297" x2="368" y2="297" stroke="#4f46e5" stroke-width="1" opacity="0.7"/>
+  <line x1="307" y1="311" x2="373" y2="311" stroke="#4f46e5" stroke-width="1" opacity="0.7"/>
+  <line x1="312" y1="325" x2="368" y2="325" stroke="#4f46e5" stroke-width="1" opacity="0.7"/>
+  <circle cx="320" cy="297" r="2.8" fill="#818cf8" opacity="0.85"/>
+  <circle cx="340" cy="297" r="2.8" fill="#818cf8" opacity="0.85"/>
+  <circle cx="360" cy="297" r="2.8" fill="#818cf8" opacity="0.85"/>
+  <circle cx="315" cy="311" r="2.8" fill="#818cf8" opacity="0.85"/>
+  <circle cx="340" cy="311" r="3.5" fill="#a5b4fc" opacity="0.95"/>
+  <circle cx="365" cy="311" r="2.8" fill="#818cf8" opacity="0.85"/>
+  <circle cx="320" cy="325" r="2.8" fill="#818cf8" opacity="0.85"/>
+  <circle cx="340" cy="325" r="2.8" fill="#818cf8" opacity="0.85"/>
+  <circle cx="360" cy="325" r="2.8" fill="#818cf8" opacity="0.85"/>
+
+  <!-- Head -->
+  <circle cx="340" cy="237" r="28" fill="#312e81" stroke="#818cf8" stroke-width="1.5"/>
+
+  <!-- Eyes -->
+  <circle cx="330" cy="229" r="5.5" fill="#a5b4fc"/>
+  <circle cx="350" cy="229" r="5.5" fill="#a5b4fc"/>
+  <circle cx="330" cy="229" r="2.5" fill="#1e1b4b"/>
+  <circle cx="350" cy="229" r="2.5" fill="#1e1b4b"/>
+  <circle cx="321" cy="237" r="3.5" fill="#a5b4fc" opacity="0.65"/>
+  <circle cx="359" cy="237" r="3.5" fill="#a5b4fc" opacity="0.65"/>
+
+  <!-- Chelicerae -->
+  <path d="M333 264 Q329 273 326 280" fill="none" stroke="#818cf8" stroke-width="2" stroke-linecap="round"/>
+  <path d="M347 264 Q351 273 354 280" fill="none" stroke="#818cf8" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="326" cy="280" r="3.5" fill="#6366f1"/>
+  <circle cx="354" cy="280" r="3.5" fill="#6366f1"/>
+
+  <!-- Leg nodes -->
+  <circle cx="448" cy="204" r="6" fill="#60a5fa"/>
+  <circle cx="518" cy="183" r="5" fill="#60a5fa"/>
+  <circle cx="468" cy="249" r="8" fill="#34d399"/>
+  <circle cx="546" cy="238" r="5" fill="#34d399"/>
+  <circle cx="468" cy="372" r="6" fill="#a78bfa"/>
+  <circle cx="546" cy="389" r="5" fill="#a78bfa"/>
+  <circle cx="446" cy="406" r="6" fill="#fb923c"/>
+  <circle cx="517" cy="436" r="5" fill="#fb923c"/>
+  <circle cx="232" cy="204" r="6" fill="#60a5fa"/>
+  <circle cx="162" cy="183" r="5" fill="#60a5fa"/>
+  <circle cx="212" cy="249" r="8" fill="#34d399"/>
+  <circle cx="134" cy="238" r="5" fill="#34d399"/>
+  <circle cx="212" cy="372" r="6" fill="#a78bfa"/>
+  <circle cx="134" cy="389" r="5" fill="#a78bfa"/>
+  <circle cx="234" cy="406" r="6" fill="#fb923c"/>
+  <circle cx="163" cy="436" r="5" fill="#fb923c"/>
+
+  <!-- Silk anchor -->
+  <circle cx="340" cy="458" r="5" fill="#94a3b8" opacity="0.8"/>
+
+  <!-- Label -->
+  <text x="340" y="497"
+        font-family="sans-serif"
+        font-size="20"
+        font-weight="500"
+        text-anchor="middle"
+        letter-spacing="6"
+        fill="#818cf8">SPINDEL</text>
+</svg>
