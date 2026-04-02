@@ -45,3 +45,9 @@ Evaluated on both **short-read** (Illumina WGS) and **long-read** (PacBio HiFi) 
 *Subject reader:* **Adam Ameur**
 
 ---
+
+## License
+
+The project is released under the GPL-3.0 license. For more details on the licensing, please See the [LICENSE](LICENSE) file. 
+
+## FINAL NOTES
