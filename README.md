@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Structural-Variant"/>
+  <img src="https://img.shields.io/badge/Structural Variant"/>
   <img src="https://img.shields.io/badge/PacBio%20HiFi-Long--read-34d399"/>
   <img src="https://img.shields.io/badge/Illumina-Short--read-60a5fa"/>
 </p>
