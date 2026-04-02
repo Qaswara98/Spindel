@@ -4,7 +4,7 @@
 
 <h1 align="center">Spindel</h1>
 <p align="center">
-  * <em>Graph Genome Evaluation: Comparing Linear and Pangenome References for Structural Variant Detection</em> *
+   <em>Graph Genome Evaluation: Comparing Linear and Pangenome References for Structural Variant Detection</em> 
 </p>
 
 <p align="center">
